@@ -1,3 +1,4 @@
 MAS500_Ass1
 ===========
-Judith Amores, Assignment 1
+Judith Amores, Homework #1.
+
